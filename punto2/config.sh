@@ -1,6 +1,7 @@
 mkdir fastapi
 cd fastapi
-git clone https://github.com/Nats306/TallerEC2---SA_NM.git .
+git clone https://github.com/sofiaaristizabal/FinalSOsofia.git .
+cd punto2
 
 sudo apt update && sudo apt upgrade -y
 sudo apt install python3 python3-pip -y
