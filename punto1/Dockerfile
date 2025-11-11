@@ -8,4 +8,4 @@ RUN pip install -r requirements.txt
 
 COPY app.py ${LAMBDA_TASK_ROOT}
 
-CMD ["main.handler"]
+CMD ["main.mangum"]
